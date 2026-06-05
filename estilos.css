@@ -835,6 +835,10 @@ article a:hover {
         font-size: 1.8em;
     }
 
+    #chicos p{
+         font-size: 1.5em
+    }
+    
     #grupo {
         background-size: 500%;
     }
@@ -845,4 +849,7 @@ article a:hover {
         font-size: 2em;
     }
 
+    #juntos p{
+        font-size: 1.5em
+    }
 }
